@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hello there, 👋 I´m Eluizer de León
+
+## Estoy aprendiendo con el Google Expert Guillermo Rodas
+
+Voy a ser un habilidoso desarrollador Full Stack con el manejo de tecnologías JavaScript y React para el frontend y para el backend voy a tener una especialización de desarrollo con Java de Oracle, y demostrar que en Guatemala hay talento
+
+### Tecnologías que estoy reforzando
+1. CSS
+2. CSS CON FLEX Y GRID
+3. HTML SEMANTICO
+4. JAVASCRIPT
+5. REACT.
+
 
 <!--
 **ciberelu/ciberelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
