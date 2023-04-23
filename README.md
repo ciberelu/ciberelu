@@ -11,6 +11,17 @@ Voy a ser un habilidoso desarrollador Full Stack con el manejo de tecnologías J
 4. JAVASCRIPT
 5. REACT.
 
+### Comando que puedo utilizar en la terminal de ubuntu
+
+| Comando | Descripción | 
+|----------|----------|
+| LS    | Sirve para listar el listado de cosas que hay dentro del directorio actual |
+| clear   |  Sirve para limpiar la terminal |
+| CD   | Cambia de directorio  |
+
+
+
+
 
 <!--
 **ciberelu/ciberelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
