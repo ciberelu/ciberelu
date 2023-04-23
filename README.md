@@ -11,6 +11,8 @@ Voy a ser un habilidoso desarrollador Full Stack con el manejo de tecnologías J
 4. JAVASCRIPT
 5. REACT.
 
+
+## Esto es un ejemplo para prácticar markdown
 ### Comando que puedo utilizar en la terminal de ubuntu
 
 | Comando | Descripción | 
